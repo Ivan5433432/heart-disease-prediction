@@ -114,4 +114,49 @@ heart-disease-prediction/
 └── README.md
 ```
 
-## 8. How
+## 8. How to Run the Project
+
+### Prerequisites
+
+- Python 3.10 or later
+- Jupyter Notebook or Visual Studio Code
+
+### Install dependencies
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
+```
+
+### Run the Jupyter Notebook
+
+Open `Python_Bootcamp_Project.ipynb` in Jupyter Notebook or VSCode and execute the cells.
+
+### Run the Tkinter Application
+
+```bash
+python heart_health_tkinter.py
+```
+
+## 9. Limitations
+
+- The analysis is based on the available dataset and its recorded variables.
+- Observed associations do not necessarily imply causal relationships.
+- Model predictions are statistical estimates and should not be interpreted as medical diagnoses.
+- The application is designed for educational and analytical purposes, not clinical decision-making.
+
+## 10. Authors & Acknowledgements
+
+**Authors:**
+- Phuc Vinh Nguyen
+- Le Hoai An Nguyen
+- Uzunlar Batuhan
+
+**Instructor:** Nafe Moradkhani
+
+**Project:** Python Bootcamp Assignment
+
+**Date:** November 2026
+
+---
+
+*This project was developed for educational purposes to explore data analytics, statistical analysis, and introductory machine learning applications in healthcare.*
